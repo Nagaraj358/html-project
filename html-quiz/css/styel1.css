@@ -1,0 +1,14 @@
+body{
+	font-family:arial;
+	font-size:15px;
+	line-height:1.6em;
+	background:#4f4f4f;
+}
+
+header{
+	background:#1f88f4;
+	color:#ffffff;
+	padding:5px 10px;
+	overflow:auto;
+	font-size:25px;
+}
